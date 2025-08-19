@@ -3,7 +3,7 @@
 <h3 align="center">🔐 Cyber Security Student | 💻 Developer | 🚀 Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;AI+%2B+Security+Researcher;CTF+Player+%26+Challenge+Maker;Full+Stack+Learner;Always+Exploring+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Cyber+Security+Enthusiast;AI+%2B+Security+Researcher;CTF+Player+%26+Challenge+Maker;Full+Stack+Learner;Always+Exploring+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
@@ -88,7 +88,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" />
 </p>
